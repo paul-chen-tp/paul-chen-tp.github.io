@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["banner"],{2990:function(e,n,a){"use strict";a.r(n);var r=function(){var e=this,n=e.$createElement,a=e._self._c||n;return a("div",[a("page-header",{attrs:{title:"Banner 管理",breadcrumb:e.breadcrumb}})],1)},t=[],u=a("36ad"),c={name:"banner",data:function(){return{breadcrumb:[{title:"Banner 管理"}]}},components:{PageHeader:u["a"]}},b=c,d=a("2877"),l=Object(d["a"])(b,r,t,!1,null,null,null);n["default"]=l.exports}}]);
+//# sourceMappingURL=banner.a6cbf96b.js.map
